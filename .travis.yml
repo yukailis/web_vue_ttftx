@@ -1,6 +1,6 @@
 branches:
   only:
-    - develop
+    - dev
 
 language: node_js
 
