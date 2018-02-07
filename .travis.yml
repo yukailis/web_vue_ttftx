@@ -42,4 +42,4 @@ after_success:
 # Note: you should set Environment Variables here or 'Settings' on travis-ci.org
 env:
   global:
-    - GH_REF: https://github.com/yukailis/web_vue_ttftx.git
+    - GH_REF: github.com/yukailis/web_vue_ttftx.git
