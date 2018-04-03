@@ -24,7 +24,7 @@ install:
 
 script:
   - git config --global user.name "yukailis"
-  - git config --global user.email " 18810456382@163.com"
+  - git config --global user.email "18810456382@163.com"
   - git clone --branch master https://${GH_REF} dist
 
 # script:
